@@ -15,15 +15,15 @@
 ####任务描述：
 
  - **简介**：`BigInteger` 系列任务二！
- 上回书说到构造函数，这一次试一试操作符重载。让他们的运算支持 `=` 拷贝，`+`，`+=` 加法（其它操作暂时不管）
+ 上回书说到构造函数，这一次试一试操作符重载。让他们的运算支持 `=` 拷贝，`+`，`+=` 加法（其它操作不做要求）
  - **需求**：
-    1. 在`.h`的类的申明中，写下这些操作符重载：
+    1. 在`.h`的类的申明中，添加这些操作符重载：
 	```
 	public:
 
 		/**
 		 *	\brief	Operator Overloading [=]
-		 *			如果使用了指针成员列表，那么重载等于运算将很有必要
+		 *			注：如果使用了指针成员列表，那么重载等于运算将很有必要
 		 *
 		 *	\param	rhs		拷贝对象
 		 *
@@ -46,12 +46,12 @@
 		 *	\param	lhs		操作符左边的值
 		 *	\param	rhs		操作符右边的值
 		 *
-		 *	\return			+ 的计算结果
+		 *	\return			+ 运算的计算结果
 		 */
 		friend const BigInteger operator +(const BigInteger & lhs, const BigInteger & rhs);
 	```
-    2. 搜索关于他们的资料；注意样例代码中何处使用`const`、何处使用`&`；区分一元运算符，二元运算符！
-    3. 补全它们并测试你的代码。
+    2. 搜索关于他们的资料；注意样例代码中何处使用`const`、何处使用`&`；返回值为`BigInteger`和`BigInteger &`的场合
+    3. 补全 这些操作符重载 并 调试 你的代码。
     4. 符合*代码规范*：[RobitCppCodingConventions](ref/RobitCppCodingConventions.md)。
 
  - **关键词**：Operator Overloading, `friend`

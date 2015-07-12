@@ -13,10 +13,14 @@ FrameMgr
  - **依赖任务**：[Timer](Timer.md)
 
 ####任务描述：
- - **简介**：很多游戏中都会有和 [FPS](https://en.wikipedia.org/wiki/Frame_rate) 相关的功能，显示帧数或者锁帧等。这里将借助已经写过的`Timer`类型，完成类`FrameMgr`，用于控制程序运行时帧数。
+ - **简介**：很多游戏中都会有和 [FPS](https://en.wikipedia.org/wiki/Frame_rate) 相关的功能，显示帧数或者锁帧等。这里将利用已经写过的`Timer`类型，完成类`FrameMgr`，用于控制程序运行时帧数。
  - **需求**：
     1. 使用一个`Timer`作为`FrameMgr`类的私有成员
-    2. 符合*代码规范*
+    2. `FrameMgr` 大致有这些操作：
+    	- 设定FPS
+    	- 记录当前时间
+    	- 强制等待到这一帧结束
+    	- 获取当前FPS值
     3. 在 main 函数中使用以下代码进行测试：
 	```
 	#include <iostream>

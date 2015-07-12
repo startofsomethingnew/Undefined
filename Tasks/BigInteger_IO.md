@@ -40,8 +40,8 @@
 		 */
 		friend std::istream& operator >> (std::istream& is, BigInteger& rhs);
 	```
-    3. 搜索关于它们的资料，注意区分它们和之前的`friend const BigInteger operator +(const BigInteger & lhs, const BigInteger & rhs);`！
-    4. 补全它们并测试你的代码。
+    3. 搜索关于它们的资料，注意区分它们和之前的`friend const BigInteger operator +(const BigInteger & lhs, const BigInteger & rhs);`的语义！
+    4. 补全它们并调试你的代码。
     5. 符合*代码规范*：[RobitCppCodingConventions](ref/RobitCppCodingConventions.md)
 
  - **关键词**：Operator Overloading, `friend`, iostream, // sstream

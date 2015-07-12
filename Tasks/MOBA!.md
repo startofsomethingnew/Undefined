@@ -16,6 +16,7 @@
 
  - **简介**：
     - 介绍：
+
 > Often I am asked, what does a hero truly need?
 > Much depends on the hero.
 > would you be **swift**? There for you I have speed beyond measure!
@@ -23,6 +24,7 @@
 > Would you be **wise**? Then come closer and I will unlock your inner cunning.
 > What does a Hero truly need?
 > That is for you to decide.
+
     - 某 MOBA 游戏有这样一个设定，游戏中有很多英雄，但是他们分为三类，*敏捷*型、*力量*型、*智力*型
     - 这是因为英雄都有三个可成长的属性，分别为：*敏捷*、*力量*、*智力*，属性值满足线性关系：属性值 = 属性成长值 * (等级 - 1) + 基础属性。
     - 英雄的类型决定了他们的主属性，比如攻击力，这项属性计算方式为 攻击力 = 主属性 + 基础攻击力。

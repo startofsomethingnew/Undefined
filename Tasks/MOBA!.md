@@ -45,7 +45,7 @@
 	5. 符合*代码规范*：[RobitCppCodingConventions](ref/RobitCppCodingConventions.md)
 
 
- - **关键词**：Inherit，Polymorphic
+ - **关键词**：Inherit, Polymorphic, override
  - **参考资料**：
  	- [Effective c++学习笔记——条款07:为多态基类声明virtual析构函数](http://blog.csdn.net/wallwind/article/details/6762174)
  	- [[C++]接口继承与实现继承](http://blog.csdn.net/ljinddlj/article/details/1922189)

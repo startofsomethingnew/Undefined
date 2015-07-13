@@ -35,14 +35,14 @@
 		 *	\brief	The Copy Constructor.
 		 *			It is necessary if any pointer member exists.
 		 *
-		 *	\param	rhs		拷贝对象
+		 *	\param	rhs		被拷贝的对象
 		 */
 		BigInteger(const BigInteger& rhs);
 
 		/**
 		 *	\brief	Constructor[Overloaded], with all of the parameters.
 		 *
-		 *	\param	string			A string that represents an integer. e.g. "1000"
+		 *	\param	string			存储数字的字符串 e.g. "1000"
 		 */
 		BigInteger(const char string[]);
 

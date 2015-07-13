@@ -15,7 +15,7 @@
 ####任务描述：
 
  - **简介**：学习并使用`Doxygen`！
- 将自己写的*任意一个难度 > 1 的编写代码的任务*中用到的那些类，配合`Doxygen`风格的注释，产生一个完整的`html`风格的`Doxygen`文档
+ 将自己写的 任意一个难度 > 1 (例如：[Task2Class](Task2Class.md)、[OldTaskGen](OldTaskGen.md)等等) 的编写代码的任务*中用到的那些类，配合`Doxygen`风格的注释，产生一个完整的`html`风格的`Doxygen`文档
  - **需求**：
     1. 自学并了解`Doxygen`及其风格的注释
     2. 使用`Doxygen`生成一个带完整注释的`html`文档

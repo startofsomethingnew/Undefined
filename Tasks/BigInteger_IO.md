@@ -36,7 +36,7 @@
 		 *	\param	is		输入流
 		 *	\param	rhs		将要输出的整数
 		 *
-		 *	\return			std::ostream&, 以便再次接受 << 运算
+		 *	\return			std::istream&, 以便再次接受 << 运算
 		 */
 		friend std::istream& operator >> (std::istream& is, BigInteger& rhs);
 	```

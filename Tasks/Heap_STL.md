@@ -14,8 +14,8 @@
 
 ####任务描述：
 
- - **简介**：堆系列，其三
-哈，我猜你一定想知道你写的C语言版本的堆和C++版本的堆，谁的效率更高？一起来试试吧。不过我们还得多带一个来自STL的小伙伴——优先队列！（虽然名字不一样，脱掉马甲大家都是堆）
+ - **简介**：堆系列，其三。
+我猜你一定想知道你写的C语言版本的堆和C++版本的堆，谁的效率更高？那么一起来试试吧。不过我们还得多带一个来自STL的小伙伴——优先队列！（虽然名字不一样，脱掉马甲大家都是堆）
 
  - **需求**：
     1. 仍然使用上一个任务，C++版本的堆的所在工程
@@ -25,4 +25,6 @@
     5. 虽然没有多少代码，但是还是须要符合*代码规范*：[RobitCppCodingConventions](ref/RobitCppCodingConventions.md)
 
  - **关键词**：`Binary Heap`, `Debug`, `Realse`
- - **参考资料**：[std::priority_queue](http://www.cplusplus.com/reference/queue/priority_queue/)
+ - **参考资料**：
+ 	- [std::priority_queue](http://www.cplusplus.com/reference/queue/priority_queue/)
+ 	- [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)

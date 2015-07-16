@@ -33,7 +33,7 @@
  - **需求**：
     1. 我们需要抽象基类，`Hero`，包含三种子类类型`StrengthHero`、`AgileHero`、`IntellectualHero`。他们的主属性分别为 Strength 、 Agile 、 Intellectual 。
     2. 对于属性的约定，基础属性为整数，属性成长值为实数，精确到小数点后两位。
-    3. 可以对子类调用 `int getProperty(PropertyType type) const`，获取指定的属性，其中`PropertyType`是一个由你实现的枚举类型，标识三种属性类型以及攻击力，最后输出结果用`int`(舍去小数部分)表示。
+    3. 可以对子类调 `int getProperty(PropertyType type) const`（需要由你设定为*虚函数*或者*纯虚函数*），获取指定的属性，其中`PropertyType`是一个由你实现的枚举类型，标识三种属性类型以及攻击力，最后输出结果用`int`(舍去小数部分)表示。
 	4. TB 为*敏捷*类型英雄，他的的属性资料是：
 
 		TB | 力量 | 敏捷 | 智力| 攻击力
@@ -45,7 +45,7 @@
 	5. 符合*代码规范*：[RobitCppCodingConventions](ref/RobitCppCodingConventions.md)
 
 
- - **关键词**：Inherit, Polymorphic, override
+ - **关键词**：Inherit, Polymorphic, override, `(Pure) virtual function`
  - **参考资料**：
  	- [Effective c++学习笔记——条款07:为多态基类声明virtual析构函数](http://blog.csdn.net/wallwind/article/details/6762174)
  	- [[C++]接口继承与实现继承](http://blog.csdn.net/ljinddlj/article/details/1922189)

@@ -55,15 +55,15 @@ extern "C"
 	} Heap;
 
 	/**
-	 *	\brief	构造一个堆
+	 *	\brief	构造一个 空堆
 	 *
 	 *	\param	heap		待初始化的堆
-	 *	\param	is_min_heap	是否为小根堆，0为否，1为是
+	 *	\param	is_min_heap	0为小根堆，其它情况下为大根堆
 	 */
 	void create_heap(Heap * heap, int is_min_heap);
 
 	/**
-	 *	\brief	删除一个堆
+	 *	\brief	删除一个已经构造的堆
 	 *
 	 *	\param	heap		待删除的堆
 	 */

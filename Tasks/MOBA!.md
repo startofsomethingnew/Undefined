@@ -52,3 +52,4 @@
  	- [Effective c++学习笔记——条款07:为多态基类声明virtual析构函数](http://blog.csdn.net/wallwind/article/details/6762174)
  	- [[C++]接口继承与实现继承](http://blog.csdn.net/ljinddlj/article/details/1922189)
  	- [C++ 设计抽象基类的策略](http://blog.csdn.net/slience_perseverance/article/details/20546955)
+ 	- [C++封装、继承、多态](http://blog.csdn.net/ruyue_ruyue/article/details/8211809)

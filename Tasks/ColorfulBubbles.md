@@ -18,8 +18,8 @@
  
  - **需求**：
 	1. 要求泡泡的数量大于20个，位置随机
-	2. 泡泡的大小不一，在一定范围内
-	3. 泡泡的要有颜色，为了美观，其中必须出现一些渐变色的泡泡，并且每个泡泡都具有一定的透明度
+	2. 泡泡的*大小*、*颜色*随机，需要有各自的*透明度*，一些泡泡需要设定为*渐变色*
+	3. 这是一个参考的示例图：![Example](img/ColorfulBubbles.Example.jpg)
 	4. 提示：可以通过重写`QMainWindow`的成员函数`paintEvent`来实现
 	5. 符合*代码规范*：[RobitCppCodingConventions](ref/RobitCppCodingConventions.md)
 

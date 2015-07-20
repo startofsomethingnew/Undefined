@@ -23,7 +23,7 @@
 		- `virtul void update() const = 0`，更新对象数据。在*屏幕*范围内移动，镜面反弹，更新透明度等事项
 		- `virtul void draw() const = 0`，绘制这个对象
 	4. 建议使用`QLabel`来绘图
-	6. 符合*代码规范*：[RobitCppCodingConventions](ref/RobitCppCodingConventions.md)
+	5. 符合*代码规范*：[RobitCppCodingConventions](ref/RobitCppCodingConventions.md)
 
  - **关键词**：`QTimer`、`QPainter`、`QPaintEvent`、`QPen`、`QBrush`、`qrand`、`QLabel`
  - **参考资料**：

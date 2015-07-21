@@ -20,7 +20,7 @@
 	1. 需求变更。除了泡泡，还需要随机的*三角形*、*正方形*、*五角星*各10个！他们都是基类`Shape`的*派生类*
 	2. 所有的形状，*大小*、*颜色*随机，同时设定为*渐变色*。*透明度*由 0~255~0 周期变化。其它细节自定。
 	3. `Shape`拥有：
-		- `virtul void update() const = 0`，更新对象数据。在*窗口*范围内移动，处理边界镜面反弹，更新透明度等事项
+		- `virtul void update() const = 0`，更新对象数据。在*窗口*范围内平移（遇到边界则镜面反弹），更新透明度数据等事项
 		- `virtul void draw() const = 0`，绘制这个对象
 	4. 符合*代码规范*：[RobitCppCodingConventions](ref/RobitCppCodingConventions.md)
 

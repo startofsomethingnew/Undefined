@@ -25,4 +25,6 @@
 	7. 阅读傅利叶变换相关资料，见群里的文档：《知乎——傅里叶变换1》、《知乎——傅里叶变换2》
 
  - **关键词**：`Color Model`, `RGB`, `HSV`, `HSI`
- - **参考资料**：[wiki: Color model](https://en.wikipedia.org/wiki/Color_model)
+ - **参考资料**：
+ 	- [wiki: Color model](https://en.wikipedia.org/wiki/Color_model)
+ 	- [OpenCV中cvSplit图像的通道分离](http://blog.csdn.net/Arthurlr/article/details/9077597)

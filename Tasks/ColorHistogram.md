@@ -19,7 +19,7 @@
     2. 调用 OpenCV 鼠标事件实现在图像上圈出一个方框（其他形状均可）
     3. 使用相关方法或自己编写方法统计获得此区域在各通道的直方图
 
- - **关键词**：`Histogram`, `Mouse events`
+ - **关键词**：`Histogram`, `Mouse events`, `cvRectangle`, `cvCircle`, `cvSetImageROI`
  - **参考资料**：
  	- [学习OpenCV——鼠标事件（画框)](http://m.blog.csdn.net/blog/kaka20080622/44087711)
  	- 书籍：学习OpenCV::第七章::直方图与匹配

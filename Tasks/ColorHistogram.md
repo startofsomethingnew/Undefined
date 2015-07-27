@@ -19,6 +19,7 @@
     1. 用 OpenCV 相关函数载入并显示一张彩色图像并将其用`cvSplit`分为三个通道的图像
     2. 调用 OpenCV 鼠标事件实现在图像上圈出一个方框（其他形状均可）
     3. 使用相关方法或自己编写方法统计获得此区域在各通道的直方图
+    4. 程序需实现以上操作的循环调用
 
  - **关键词**：`Histogram`, `Mouse events`, `cvRectangle`, `cvCircle`, `cvSetImageROI`
  - **参考资料**：

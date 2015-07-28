@@ -1,27 +1,27 @@
-Ö±·½Í¼ÓëÊó±êÊÂ¼þ
+ç›´æ–¹å›¾ä¸Žé¼ æ ‡äº‹ä»¶
 ---
 
 **Date**: 2015.07.27
 **Author**: TB
 **Principal**: TB
 
-####ÏÞÖÆÌõ¼þ£º
+####é™åˆ¶æ¡ä»¶ï¼š
 
- - **ÄÑ¶È**£ºN/A
- - **ÏÞ¶¨ÓïÑÔ**£ºC/C++
- - **ÈËÊýÏÞÖÆ**£º1
- - **ÒÀÀµÈÎÎñ**£º[ColorModel](ColorModel.md)
+ - **éš¾åº¦**ï¼šN/A
+ - **é™å®šè¯­è¨€**ï¼šC/C++
+ - **äººæ•°é™åˆ¶**ï¼š1
+ - **ä¾èµ–ä»»åŠ¡**ï¼š[ColorModel](ColorModel.md)
 
-####ÈÎÎñÃèÊö£º
+####ä»»åŠ¡æè¿°ï¼š
 
- - **¼ò½é**£ºÏÈÓÃ¸ÕÑ§µ½µÄ¶«Î÷ÊµÏÖÒ»¸öÊ¹ÓÃµÄ»ñÈ¡Í¼ÏñÄ³¿éÇøÓò¸÷Í¨µÀÖ±·½Í¼µÄ³ÌÐò°É£¡
- - **ÐèÇó**£º
-    1. ÓÃ OpenCV Ïà¹Øº¯ÊýÔØÈë²¢ÏÔÊ¾Ò»ÕÅ²ÊÉ«Í¼Ïñ²¢½«ÆäÓÃ`cvSplit`·ÖÎªÈý¸öÍ¨µÀµÄÍ¼Ïñ
-    2. µ÷ÓÃ OpenCV Êó±êÊÂ¼þÊµÏÖÔÚÍ¼ÏñÉÏÈ¦³öÒ»¸ö·½¿ò£¨ÆäËûÐÎ×´¾ù¿É£©
-    3. Ê¹ÓÃÏà¹Ø·½·¨»ò×Ô¼º±àÐ´·½·¨Í³¼Æ»ñµÃ´ËÇøÓòÔÚ¸÷Í¨µÀµÄÖ±·½Í¼
-    4. ³ÌÐòÐèÊµÏÖÒÔÉÏ²Ù×÷µÄÑ­»·µ÷ÓÃ
+ - **ç®€ä»‹**ï¼šå…ˆç”¨åˆšå­¦åˆ°çš„ä¸œè¥¿å®žçŽ°ä¸€ä¸ªä½¿ç”¨çš„èŽ·å–å›¾åƒæŸå—åŒºåŸŸå„é€šé“ç›´æ–¹å›¾çš„ç¨‹åºå§ï¼
+ - **éœ€æ±‚**ï¼š
+    1. ç”¨ OpenCV ç›¸å…³å‡½æ•°è½½å…¥å¹¶æ˜¾ç¤ºä¸€å¼ å½©è‰²å›¾åƒå¹¶å°†å…¶ç”¨`cvSplit`åˆ†ä¸ºä¸‰ä¸ªé€šé“çš„å›¾åƒ
+    2. è°ƒç”¨ OpenCV é¼ æ ‡äº‹ä»¶å®žçŽ°åœ¨å›¾åƒä¸Šåœˆå‡ºä¸€ä¸ªæ–¹æ¡†ï¼ˆå…¶ä»–å½¢çŠ¶å‡å¯ï¼‰
+    3. ä½¿ç”¨ç›¸å…³æ–¹æ³•æˆ–è‡ªå·±ç¼–å†™æ–¹æ³•ç»Ÿè®¡èŽ·å¾—æ­¤åŒºåŸŸåœ¨å„é€šé“çš„ç›´æ–¹å›¾
+    4. ç¨‹åºéœ€å®žçŽ°ä»¥ä¸Šæ“ä½œçš„å¾ªçŽ¯è°ƒç”¨
 
- - **¹Ø¼ü´Ê**£º`Histogram`, `Mouse events`, `cvRectangle`, `cvCircle`, `cvSetImageROI`
- - **²Î¿¼×ÊÁÏ**£º
- 	- [Ñ§Ï°OpenCV¡ª¡ªÊó±êÊÂ¼þ£¨»­¿ò)](http://m.blog.csdn.net/blog/kaka20080622/44087711)
- 	- Êé¼®£ºÑ§Ï°OpenCV::µÚÆßÕÂ::Ö±·½Í¼ÓëÆ¥Åä
+ - **å…³é”®è¯**ï¼š`Histogram`, `Mouse events`, `cvRectangle`, `cvCircle`, `cvSetImageROI`
+ - **å‚è€ƒèµ„æ–™**ï¼š
+ 	- [å­¦ä¹ OpenCVâ€•â€•é¼ æ ‡äº‹ä»¶ï¼ˆç”»æ¡†)](http://m.blog.csdn.net/blog/kaka20080622/44087711)
+ 	- ä¹¦ç±ï¼šå­¦ä¹ OpenCV::ç¬¬ä¸ƒç« ::ç›´æ–¹å›¾ä¸ŽåŒ¹é…

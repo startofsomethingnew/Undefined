@@ -19,7 +19,7 @@
  - **需求**：
  	1. 可以使用控制台窗口实现
     2. *接收*和*发送*应在同一程序中实现
-    3. 写完之后推荐使用 Qt 的`QUdpSocket`和*Signals*实现
+    3. [可选]写完之后使用 Qt 的`QUdpSocket`和*Signals*实现
     4. 符合*代码规范*：[RobitCppCodingConventions](ref/RobitCppCodingConventions.md)
 
  - **关键词**：`UDP`, `Windows Thread`, // `QUdpSocke`, `Signals`

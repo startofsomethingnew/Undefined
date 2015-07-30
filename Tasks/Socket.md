@@ -1,27 +1,27 @@
-ÀÏ´óµÄÖ§ÏßÈÎÎñ
+è€å¤§çš„æ”¯çº¿ä»»åŠ¡
 ---
 
 **Date**: 2015.07.29
 **Author**: SYC
 **Principal**: SYC
 
-####ÏÞÖÆÌõ¼þ£º
+####é™åˆ¶æ¡ä»¶ï¼š
 
- - **ÄÑ¶È**£ºN/A
- - **ÏÞ¶¨ÓïÑÔ**£ºC/C++
- - **ÈËÊýÏÞÖÆ**£º1
- - **ÒÀÀµÈÎÎñ**£ºN/A
+ - **éš¾åº¦**ï¼š1
+ - **é™å®šè¯­è¨€**ï¼šC/C++
+ - **äººæ•°é™åˆ¶**ï¼š1
+ - **ä¾èµ–ä»»åŠ¡**ï¼šN/A
 
-####ÈÎÎñÃèÊö£º
+####ä»»åŠ¡æè¿°ï¼š
 
- - **¼ò½é**£º¼òµ¥µÄ¾ÖÓòÍøÊÕ·¢ÐÅÏ¢£¬Ê¹ÓÃUDPÊµÏÖ¼òµ¥µÄ¾ÖÓòÍøÄÚ²»Í¬Ö÷»ú¼äµÄ»ùÓÚ¿ØÖÆÌ¨µÄÁÄÌì³ÌÐò
+ - **ç®€ä»‹**ï¼šç®€å•çš„å±€åŸŸç½‘æ”¶å‘ä¿¡æ¯ï¼Œä½¿ç”¨UDPå®žçŽ°ç®€å•çš„å±€åŸŸç½‘å†…ä¸åŒä¸»æœºé—´çš„åŸºäºŽæŽ§åˆ¶å°çš„èŠå¤©ç¨‹åº
 
- - **ÐèÇó**£º
- 	1. ¿ÉÒÔÊ¹ÓÃ¿ØÖÆÌ¨´°¿ÚÊµÏÖ
-    2. *½ÓÊÕ*ºÍ*·¢ËÍ*Ó¦ÔÚÍ¬Ò»³ÌÐòÖÐÊµÏÖ
-    3. [¿ÉÑ¡]Ð´ÍêÖ®ºóÊ¹ÓÃ Qt µÄ`QUdpSocket`ºÍ*Signals*ÊµÏÖ
-    4. ·ûºÏ*´úÂë¹æ·¶*£º[RobitCppCodingConventions](ref/RobitCppCodingConventions.md)
+ - **éœ€æ±‚**ï¼š
+ 	1. å¯ä»¥ä½¿ç”¨æŽ§åˆ¶å°çª—å£å®žçŽ°
+    2. *æŽ¥æ”¶*å’Œ*å‘é€*åº”åœ¨åŒä¸€ç¨‹åºä¸­å®žçŽ°
+    3. [å¯é€‰]å†™å®Œä¹‹åŽä½¿ç”¨ Qt çš„`QUdpSocket`å’Œ*Signals*å®žçŽ°
+    4. ç¬¦åˆ*ä»£ç è§„èŒƒ*ï¼š[RobitCppCodingConventions](ref/RobitCppCodingConventions.md)
 
- - **¹Ø¼ü´Ê**£º`UDP`, `Windows Thread`, // `QUdpSocke`, `Signals`
- - **²Î¿¼×ÊÁÏ**£ºÊé¼®£¬WINDOWSÍøÂç±à³Ì¼¼Êõ::µÚ5ÕÂ~µÚ7ÕÂ
+ - **å…³é”®è¯**ï¼š`UDP`, `Windows Thread`, // `QUdpSocke`, `Signals`
+ - **å‚è€ƒèµ„æ–™**ï¼šä¹¦ç±ï¼ŒWINDOWSç½‘ç»œç¼–ç¨‹æŠ€æœ¯::ç¬¬5ç« ~ç¬¬7ç« 
  

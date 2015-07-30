@@ -7,7 +7,7 @@ Simple Koch Curve
 
 ####限制条件：
 
- - **难度**：N/A
+ - **难度**：1
  - **限定语言**：C++ 
  - **人数限制**：1
  - **依赖任务**：[ColorfulBubbles](ColorfulBubbles.md)

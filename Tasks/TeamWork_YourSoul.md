@@ -15,7 +15,7 @@ Your Soul
 ####任务描述：
 
  - **简介**：大作业，其一。最近 MYLS 同学玩上了一个很硬核的独立游戏，Titan Souls。具体细节可以无视，总之有一个场景，就是和你自己的加强版——`The Soul`的战斗……
- ![TitanSouls](img\TeamWork_YourSoul.TitanSouls.jpg)
+ ![TitanSouls](img/TeamWork_YourSoul.TitanSouls.jpg)
  然而加强的敌人在技能上的强大，只是掩盖了智能上的不足。所以还是自己动手创造一个，和自己在同等条件，能打败自己的AI吧！
 
  - **需求**：

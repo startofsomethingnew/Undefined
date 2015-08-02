@@ -37,7 +37,15 @@ Cute Desktop Tool
 		- 可以通过重写`QMainWindow`的成员函数`paintEvent`来实现
 		- 鼠标事件可以通过重写`QMouseEvent`和`QMouseMoveEvent`来实现
 		- 关于调整控件大小和位置请参考`QWidget`类
+		- QT打开文件的方式：
+		```
+		QFile file3("test/configurefile3.xml"); file3.open(QFile::ReadOnly)；//使用相对路径
+		QFile file1("/usr/configurefile1.xml");file1.open(QFile::ReadOnly)；//使用绝对路径
+		// 也可以添加资源文件再进行文件打开操作
+		```
 	10. 符合代码规范：[RobitCppCodingConventions](ref/RobitCppCodingConventions.md)
 
- - **关键词**：`QPainter`, `QPaintEvent`, `QPen`,` QColor`, `QTimer`, `QTime`, `QLCDNumber`, `QMouseEvent`, `QString`, `QAction`, `QMenu`
+ - **关键词**：`QPainter`, `QPaintEvent`, `QPen`,` QColor`, `QTimer`, `QTime`, `QLCDNumber`, `QMouseEvent`, `QString`, `QAction`, `QMenu`, `QFile`
  - **参考资料**：
+ 	- [QMenu & QAction 右键菜单的生成](http://blog.sina.com.cn/s/blog_a6fb6cc90101fxsc.html)
+ 	- [关于图形绘制,QT提供了比用c++ 更便捷的界面美化方式QML](http://qmlbook.github.io/)

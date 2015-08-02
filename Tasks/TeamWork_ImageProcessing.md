@@ -32,4 +32,4 @@
     14. 有问题 TB 随时提供答疑
 
  - **关键词**：`Threshold`，`cvSetMouseCallback`，`Openni`，`Windows SDK`
- - **参考资料**：
+ - **参考资料**：球队云盘->视觉组相关
